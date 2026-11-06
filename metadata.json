@@ -1,0 +1,8 @@
+{
+  "name": "Disney Jumper",
+  "description": "An infinite jumping platform game where players can choose any Disney character with custom visuals, effects, and magical trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
